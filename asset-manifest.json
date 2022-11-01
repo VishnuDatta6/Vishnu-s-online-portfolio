@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Vishnu-s-online-portfolio/static/css/main.f8224f4c.css",
+    "main.css": "/Vishnu-s-online-portfolio/static/css/main.19dd62b7.css",
     "main.js": "/Vishnu-s-online-portfolio/static/js/main.b5d24d13.js",
     "static/media/carevisor-covid-19.jpg": "/Vishnu-s-online-portfolio/static/media/carevisor-covid-19.53958251f9d1a1314c1e.jpg",
     "static/media/insta.ly-app-icon.jpg": "/Vishnu-s-online-portfolio/static/media/insta.ly-app-icon.92c91e02e72ab1ba83b3.jpg",
@@ -8,11 +8,11 @@
     "static/media/virtu-shield.jpg": "/Vishnu-s-online-portfolio/static/media/virtu-shield.9f7725e728f16f75a66b.jpg",
     "static/media/w copy.jpg": "/Vishnu-s-online-portfolio/static/media/w copy.9cbf26c53c60015c1f45.jpg",
     "index.html": "/Vishnu-s-online-portfolio/index.html",
-    "main.f8224f4c.css.map": "/Vishnu-s-online-portfolio/static/css/main.f8224f4c.css.map",
+    "main.19dd62b7.css.map": "/Vishnu-s-online-portfolio/static/css/main.19dd62b7.css.map",
     "main.b5d24d13.js.map": "/Vishnu-s-online-portfolio/static/js/main.b5d24d13.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8224f4c.css",
+    "static/css/main.19dd62b7.css",
     "static/js/main.b5d24d13.js"
   ]
 }
