@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vishnu-s-online-portfolio/static/css/main.a4905de6.css",
-    "main.js": "/Vishnu-s-online-portfolio/static/js/main.b5d24d13.js",
+    "main.js": "/Vishnu-s-online-portfolio/static/js/main.0a07be01.js",
     "static/media/carevisor-covid-19.jpg": "/Vishnu-s-online-portfolio/static/media/carevisor-covid-19.53958251f9d1a1314c1e.jpg",
     "static/media/insta.ly-app-icon.jpg": "/Vishnu-s-online-portfolio/static/media/insta.ly-app-icon.92c91e02e72ab1ba83b3.jpg",
     "static/media/duck.jpg": "/Vishnu-s-online-portfolio/static/media/duck.84989b73d8ec144b6769.jpg",
@@ -9,10 +9,10 @@
     "static/media/w copy.jpg": "/Vishnu-s-online-portfolio/static/media/w copy.9cbf26c53c60015c1f45.jpg",
     "index.html": "/Vishnu-s-online-portfolio/index.html",
     "main.a4905de6.css.map": "/Vishnu-s-online-portfolio/static/css/main.a4905de6.css.map",
-    "main.b5d24d13.js.map": "/Vishnu-s-online-portfolio/static/js/main.b5d24d13.js.map"
+    "main.0a07be01.js.map": "/Vishnu-s-online-portfolio/static/js/main.0a07be01.js.map"
   },
   "entrypoints": [
     "static/css/main.a4905de6.css",
-    "static/js/main.b5d24d13.js"
+    "static/js/main.0a07be01.js"
   ]
 }
